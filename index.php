@@ -1,6 +1,5 @@
 
 <?php 
-    const TOKEN = "2ASQglKA7xAEsydHgZFCbsFaQiTvXXQTIcBQw3Q862RUaWNCm16kdZvdfly3";
     $bestLanguages =["PHP", "Javascript", "Java", "Python"];
 ?>
 
