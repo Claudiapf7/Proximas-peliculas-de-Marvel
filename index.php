@@ -15,7 +15,7 @@
 <html>
     <head>
         <meta charset="UTF-8"/>
-        <title>Days until next Marvel Movie</title>
+        <title>Días para la próxima pelicula de Marvel</title>
         <!-- Fluid viewport --> 
         <link
         rel="stylesheet"
@@ -50,7 +50,7 @@
     }
     </style>
     <main>
-        <h1>Próximos estrenos de Marvel</h1>
+        <h1>Próximos estrenos de Marvel para Javier</h1>
         <section>
             <img src="<?= $data["poster_url"]; ?>" width="300px" alt="Poster de <?= $data["title"]; ?>"
             />
