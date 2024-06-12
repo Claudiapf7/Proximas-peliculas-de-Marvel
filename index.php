@@ -16,6 +16,11 @@
     <head>
         <meta charset="UTF-8"/>
         <title>Days until next Marvel Movie</title>
+        <!-- Fluid viewport --> 
+        <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.fluid.classless.min.css"
+        />
     </head>
     <style>
     :root{
