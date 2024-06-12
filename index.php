@@ -37,6 +37,10 @@
         border-radius: 20px;
     }
 
+    img:hover{
+        transform: scale(105%);
+    }
+
     section{
         display: flex;
         justify-content: center;
