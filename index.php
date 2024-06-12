@@ -1,9 +1,5 @@
 
 <?php 
-    $bestLanguages =["PHP", "Javascript", "Java", "Python"];
-?>
-
-<?php 
     define("URLAPI", "https://whenisthenextmcufilm.com/api");
     $ch = curl_init(URLAPI);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
